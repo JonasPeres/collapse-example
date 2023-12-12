@@ -1,0 +1,356 @@
+[
+  {
+    "type": 10,
+    "id": "b7d21e11-7ba3-46da-570e-b3054174475d",
+    "question": {
+      "pt_BR": "Cat 1",
+      "en_US": "",
+      "es_ES": ""
+    },
+    "items": [
+      {
+        "type": 9,
+        "weight": 0,
+        "id": "5ef74c05-2f17-4b0b-6755-15c755fba18b",
+        "question": {
+          "pt_BR": "subcategoria 1",
+          "en_US": "",
+          "es_ES": ""
+        },
+        "promoter_enabled": true,
+        "detractor_enabled": true,
+        "neutral_enabled": true,
+        "category_uuid": "5ef74c05-2f17-4b0b-6755-15c755fba18b",
+        "items": [],
+        "jump_rules_enabled": false,
+        "jump_rules": {
+          "detractor": {
+            "action": 1,
+            "value": null
+          },
+          "passive": {
+            "action": 1,
+            "value": null
+          },
+          "promoter": {
+            "action": 1,
+            "value": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": 9,
+    "weight": 0,
+    "id": "c7d21e11-7ba3-46ba-570e-b3054174475d",
+    "question": {
+      "pt_BR": "Cat 2",
+      "en_US": "",
+      "es_ES": ""
+    },
+    "promoter_enabled": true,
+    "detractor_enabled": true,
+    "neutral_enabled": true,
+    "category_uuid": "c7d21e11-7ba3-46ba-570e-b3054174475d",
+    "items": [],
+    "jump_rules_enabled": false,
+    "jump_rules": {
+      "detractor": {
+        "action": 1,
+        "value": null
+      },
+      "passive": {
+        "action": 1,
+        "value": null
+      },
+      "promoter": {
+        "action": 1,
+        "value": null
+      }
+    }
+  },
+  {
+    "type": 10,
+    "id": "1df6eca1-fbc8-4c39-7710-314fd808f987",
+    "question": {
+      "pt_BR": "cat 3",
+      "en_US": "",
+      "es_ES": ""
+    },
+    "items": [
+      {
+        "type": 9,
+        "weight": 0,
+        "id": "d09f0999-eae9-4a5e-4adc-8b7072364907",
+        "question": {
+          "pt_BR": "teste 1",
+          "en_US": "",
+          "es_ES": ""
+        },
+        "promoter_enabled": true,
+        "detractor_enabled": true,
+        "neutral_enabled": true,
+        "category_uuid": "d09f0999-eae9-4a5e-4adc-8b7072364907",
+        "items": [
+          {
+            "type": 9,
+            "weight": 0,
+            "id": "d09f0999-eae9-4a5e-4adc-8b7072364907",
+            "question": {
+              "pt_BR": "teste 1",
+              "en_US": "",
+              "es_ES": ""
+            },
+            "promoter_enabled": true,
+            "detractor_enabled": true,
+            "neutral_enabled": true,
+            "category_uuid": "d09f0999-eae9-4a5e-4adc-8b7072364907",
+            "items": [
+              {
+                "type": 9,
+                "weight": 0,
+                "id": "d09f0999-eae9-4a5e-4adc-8b7072364907",
+                "question": {
+                  "pt_BR": "teste 1",
+                  "en_US": "",
+                  "es_ES": ""
+                },
+                "promoter_enabled": true,
+                "detractor_enabled": true,
+                "neutral_enabled": true,
+                "category_uuid": "d09f0999-eae9-4a5e-4adc-8b7072364907",
+                "items": [],
+                "jump_rules_enabled": false,
+                "jump_rules": {
+                  "detractor": {
+                    "action": 1,
+                    "value": null
+                  },
+                  "passive": {
+                    "action": 1,
+                    "value": null
+                  },
+                  "promoter": {
+                    "action": 1,
+                    "value": null
+                  }
+                }
+              },
+              {
+                "type": 9,
+                "weight": 0,
+                "id": "0194d979-49f2-45ee-7bea-3037e51638e4",
+                "question": {
+                  "pt_BR": "teste 3",
+                  "en_US": "",
+                  "es_ES": ""
+                },
+                "promoter_enabled": true,
+                "detractor_enabled": true,
+                "neutral_enabled": true,
+                "category_uuid": "0194d979-49f2-45ee-7bea-3037e51638e4",
+                "items": [],
+                "jump_rules_enabled": false,
+                "jump_rules": {
+                  "detractor": {
+                    "action": 1,
+                    "value": null
+                  },
+                  "passive": {
+                    "action": 1,
+                    "value": null
+                  },
+                  "promoter": {
+                    "action": 1,
+                    "value": null
+                  }
+                }
+              },
+              {
+                "type": 9,
+                "weight": 0,
+                "id": "8a682f14-5684-4605-6d42-33c593e7398f",
+                "question": {
+                  "pt_BR": "teste 4",
+                  "en_US": "",
+                  "es_ES": ""
+                },
+                "promoter_enabled": true,
+                "detractor_enabled": true,
+                "neutral_enabled": true,
+                "category_uuid": "8a682f14-5684-4605-6d42-33c593e7398f",
+                "items": [],
+                "jump_rules_enabled": false,
+                "jump_rules": {
+                  "detractor": {
+                    "action": 1,
+                    "value": null
+                  },
+                  "passive": {
+                    "action": 1,
+                    "value": null
+                  },
+                  "promoter": {
+                    "action": 1,
+                    "value": null
+                  }
+                }
+              }
+            ],
+            "jump_rules_enabled": false,
+            "jump_rules": {
+              "detractor": {
+                "action": 1,
+                "value": null
+              },
+              "passive": {
+                "action": 1,
+                "value": null
+              },
+              "promoter": {
+                "action": 1,
+                "value": null
+              }
+            }
+          },
+          {
+            "type": 9,
+            "weight": 0,
+            "id": "0194d979-49f2-45ee-7bea-3037e51638e4",
+            "question": {
+              "pt_BR": "teste 3",
+              "en_US": "",
+              "es_ES": ""
+            },
+            "promoter_enabled": true,
+            "detractor_enabled": true,
+            "neutral_enabled": true,
+            "category_uuid": "0194d979-49f2-45ee-7bea-3037e51638e4",
+            "items": [],
+            "jump_rules_enabled": false,
+            "jump_rules": {
+              "detractor": {
+                "action": 1,
+                "value": null
+              },
+              "passive": {
+                "action": 1,
+                "value": null
+              },
+              "promoter": {
+                "action": 1,
+                "value": null
+              }
+            }
+          },
+          {
+            "type": 9,
+            "weight": 0,
+            "id": "8a682f14-5684-4605-6d42-33c593e7398f",
+            "question": {
+              "pt_BR": "teste 4",
+              "en_US": "",
+              "es_ES": ""
+            },
+            "promoter_enabled": true,
+            "detractor_enabled": true,
+            "neutral_enabled": true,
+            "category_uuid": "8a682f14-5684-4605-6d42-33c593e7398f",
+            "items": [],
+            "jump_rules_enabled": false,
+            "jump_rules": {
+              "detractor": {
+                "action": 1,
+                "value": null
+              },
+              "passive": {
+                "action": 1,
+                "value": null
+              },
+              "promoter": {
+                "action": 1,
+                "value": null
+              }
+            }
+          }
+        ],
+        "jump_rules_enabled": false,
+        "jump_rules": {
+          "detractor": {
+            "action": 1,
+            "value": null
+          },
+          "passive": {
+            "action": 1,
+            "value": null
+          },
+          "promoter": {
+            "action": 1,
+            "value": null
+          }
+        }
+      },
+      {
+        "type": 9,
+        "weight": 0,
+        "id": "0194d979-49f2-45ee-7bea-3037e51638e4",
+        "question": {
+          "pt_BR": "teste 3",
+          "en_US": "",
+          "es_ES": ""
+        },
+        "promoter_enabled": true,
+        "detractor_enabled": true,
+        "neutral_enabled": true,
+        "category_uuid": "0194d979-49f2-45ee-7bea-3037e51638e4",
+        "items": [],
+        "jump_rules_enabled": false,
+        "jump_rules": {
+          "detractor": {
+            "action": 1,
+            "value": null
+          },
+          "passive": {
+            "action": 1,
+            "value": null
+          },
+          "promoter": {
+            "action": 1,
+            "value": null
+          }
+        }
+      },
+      {
+        "type": 9,
+        "weight": 0,
+        "id": "8a682f14-5684-4605-6d42-33c593e7398f",
+        "question": {
+          "pt_BR": "teste 4",
+          "en_US": "",
+          "es_ES": ""
+        },
+        "promoter_enabled": true,
+        "detractor_enabled": true,
+        "neutral_enabled": true,
+        "category_uuid": "8a682f14-5684-4605-6d42-33c593e7398f",
+        "items": [],
+        "jump_rules_enabled": false,
+        "jump_rules": {
+          "detractor": {
+            "action": 1,
+            "value": null
+          },
+          "passive": {
+            "action": 1,
+            "value": null
+          },
+          "promoter": {
+            "action": 1,
+            "value": null
+          }
+        }
+      }
+    ]
+  }
+]
